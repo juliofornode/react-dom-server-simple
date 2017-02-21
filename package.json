@@ -1,0 +1,12 @@
+{
+  "name": "react-server-example",
+  "version": "1.2.6",
+  "description": "A simple implementation of server-side React rendering",
+  "main": "server.js",
+  "dependencies": {
+    "browserify": "^14.0.0",
+    "literalify": "^0.4.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
